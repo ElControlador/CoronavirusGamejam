@@ -1,0 +1,2 @@
+C:\Users\Roque Bru\Desktop\coronavirusJam\COVID-19JAM\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Roque Bru\Desktop\coronavirusJam\COVID-19JAM\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
